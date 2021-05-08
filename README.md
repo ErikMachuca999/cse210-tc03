@@ -7,4 +7,5 @@ KATHLEEN LEDESMA
 sophomore, computer science major, from singapore
 
 
-
+Nick Campbell
+Senior, software engineering, married with a kid
