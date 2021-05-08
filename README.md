@@ -9,3 +9,6 @@ sophomore, computer science major, from singapore
 
 Nick Campbell
 Senior, software engineering, married with a kid
+
+Kouadio F. Kouao
+computer science major from ivoiry coast...
